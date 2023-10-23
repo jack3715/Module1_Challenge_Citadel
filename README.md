@@ -64,7 +64,7 @@ Over the past decade, quantitative trading has undergone a remarkable transforma
 
 The proliferation of high-speed data feeds, cloud computing, and the development of powerful algorithms have ushered in an era of high-frequency and algorithmic trading. The use of artificial intelligence and machine learning has become more prevalent, allowing trading systems to adapt to changing market conditions with remarkable precision. Additionally, the integration of alternative data sources, such as social media sentiment analysis and satellite imagery, has provided quantitative traders with a broader, more comprehensive view of the market. 
 
-Overall, financial technology has revolutionized quantitative trading, enabling traders to process vast amounts of data in real-time, make more informed decisions, and stay ahead in an increasingly competitive and data-driven financial landscape. Citadel competes with other prominent financial institutions and hedge funds, including Renaissance Technologies, Bridgewater Associates, Two Sigma, and D.E. Shaw, in the quantitative trading and asset management spaces.
+Overall, financial technology has revolutionized quantitative trading, enabling traders to process vast amounts of data in real-time, make more informed decisions, and stay ahead in an increasingly competitive and data-driven financial landscape. Citadel competes with other prominent financial institutions and hedge funds, including **Renaissance Technologies**, **Bridgewater Associates**, **Two Sigma**, and **D.E. Shaw**, in the quantitative trading and asset management spaces.
 
 
 ## Business Impact and Results
