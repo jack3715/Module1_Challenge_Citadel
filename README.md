@@ -24,9 +24,7 @@ In 2022, Citadel announced that the company would be moving their global headqua
 *Southeast Financial Center 200 S. Biscayne Boulevard Miami, FL 33131*
 
 
-
 [Watch Citadel's Miami Office Spotlight!](https://www.youtube.com/watch?v=tSm5Ii5vqJk)
-
 
 ## Business Activities
 
@@ -34,7 +32,9 @@ The company's core values are rooted in its dedication to developing cutting-edg
 
 Citadel primarily serves institutional clients across various segments of the financial industry, including: Asset Managers, Hedge Funds, Financial Institutions, Pension Funds, Endowments and Foundations, and Sovereign Wealth Funds.
 
-Citadel's unfair advantage lies in its advanced quantitative strategies, proprietary trading technology, and a commitment to continuous innovation. These advantages are underpinned by the technologies the company utilizes which consist of algo trading systems, high-performance commuting, data analytics, and machine learning. Additionally, Citadel believes that the their human capital is what sets them apart from their competitors.
+Citadel's unfair advantage lies in its advanced quantitative strategies, proprietary trading technology, and a commitment to continuous innovation. These advantages are underpinned by the technologies the company utilizes which consist of algo trading systems, high-performance commuting, data analytics, and machine learning. 
+
+Additionally, one of Citadel's fundamental strengths lies in its capacity to draw in and keep some of the most brilliant individuals from diverse fields such as mathematics, computer science, engineering, and finance. By adopting an interdisciplinary approach, the company taps into a wealth of different viewpoints and expertise, cultivating a culture that thrives on innovation and imaginative problem-solving. Citadel's unwavering commitment to fostering exceptional talent has played a pivotal role in its achievements within the fiercely competitive domain of quantitative finance.
 
 The company's core business activities include:
 
@@ -48,13 +48,11 @@ The company's core business activities include:
 
 5. ***Technology and Data-Driven Solutions:*** Citadel has always placed a significant emphasis on techology and data-driven solutions. The company is constantly investing in new systems that support algorithmic and high frequency trading, as well as analytics to enahance performance and risk management. 
 
-### Example of Technologies used by Citadel
+### Example of Technologies used at Citadel
 
 The SEC (U.S. Securities and Exchange Commission) settled with Citadel over concerns related to the operation of two of Citadel's trading algorithms, **FastFill** and **SmartProvide**. The settlement stemmed from the SEC's investigation into whether these algorithms took advantage of price differences between the official market data (provided by the designated Security Information Processor, SIP) and faster, more detailed data from stock exchanges themselves. The problem is that these programs were making decisions based on the differences between these two sources. This is sometimes called "latency arbitrage."
 
 What makes this a big deal is that some people said these types of strategies couldn't really make much money, and there was a study from Berkeley that said so. This settlement with Citadel shows that these strategies were actually used, and they did make a difference. The settlement likely occurred as a resolution to the investigation, where Citadel agreed to specific terms and conditions without admitting or denying any wrongdoing.
-
-
 
 ## FinTech Landscape
 
@@ -87,14 +85,23 @@ Hedge funds are typically evaluted based on various performance and risk-related
 
 [In 2022, Citadel's $16B in profit makes the company the top-earning company ever.](https://www.forbes.com/sites/hanktucker/2023/01/22/citadels-16-billion-gain-in-2022-makes-ken-griffins-firm-the-top-earning-hedge-fund-ever/?sh=71c2a09a3105) In the face of challenging market conditions in 2022, Citadel's flagship multi-strategy fund delivered an impressive 38.1%. The exceptional perfromance stood out as equity markets faced a significant downturn. According to estimates by LCH Investments, Citadel concluded 2022 with assets under management totaling $62.3B. Notably, the firm achieved the distinction of posting the most substantial single-year profit in the history of hedge funds. In a press release, CEO of Edmond de Rothschild Capital Holdings said "Citadels progress up the rankings in the past few years has been remarkable."
 
+[Bloomberg TV explains how top hedge funds are outperforming the rest of the finance industry](https://www.youtube.com/watch?v=xC1LqQbIXjk&t=1s) 
+
 ![](https://thedeepdive.ca/wp-content/uploads/2023/01/LCH-Investments-Top-20-Hedge-Fund-2022.png)
 *LCH Investments' Top Hedge Fund Managers*
 
 ## Product Recommendations
 
+The following recommendations are designed to help Citadel maintain its competitive edge, adapt to changing market dynamics, and explore new horizons in the financial industry.
 
+**AI and ML-Powered Trading Algorithms:**
+Citadel can take its commitment to innovation a step further by developing AI and ML-powered trading algorithms. These advanced algorithms would utilize artificial intelligence and machine learning to analyze vast datasets and make predictions. By incorporating these cutting-edge technologies, Citadel can gain a competitive advantage in quantitative trading. The AI and ML-driven algorithms could significantly enhance the firm's ability to identify market inefficiencies, leading to more precise and profitable trades. This technological investment aligns with Citadel's culture of innovation and adaptability, positioning the company for continued success in the ever-evolving financial landscape.
 
-## Conclusion
+**Data Analytics Solutions:**
+In response to the ongoing digital transformation in finance, Citadel could offer data analytics solutions to clients. Leveraging its expertise in quantitative finance and data analysis, Citadel could provide tools and services designed to help financial institutions harness the power of data for enhanced decision-making. These solutions would enable clients to process, analyze, and derive actionable insights from financial data. By sharing its data analytics capabilities, Citadel can contribute to the industry's technological evolution and assist other firms in navigating the complex world of data-driven finance.
+
+**Market Expansion Strategies:**
+Citadel's strategic expansion into new markets and asset classes offers an exciting growth opportunity. The company could explore emerging markets with unique growth potential or delve into alternative asset classes like cryptocurrencies and digital assets. By diversifying its investment strategies and offerings, Citadel can attract a broader range of investors and potentially tap into high-growth areas. This expansion aligns with Citadel's reputation for innovation and adaptability, ensuring it remains at the forefront of the quantitative hedge fund industry and continues to deliver robust returns for its investors.
 
 ## References
 
