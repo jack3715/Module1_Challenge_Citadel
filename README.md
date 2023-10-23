@@ -69,7 +69,7 @@ Overall, financial technology has revolutionized quantitative trading, enabling 
 
 ## Business Impact and Results
 
-Citadel has achieved significant success and recognition in the financial industry. The company manages trillions of dollars in assets, provides liquidity to make markets efficient, and has an excellent reputation of delivering value to its clients. Additionally, Ken Griffin is one of the biggest philanthropists in the United States. So far in 2023, Griffin has donated over $1.5B to Philanthropic causes, including a $300M donation to Harvard University. 
+Citadel has achieved significant success and recognition in the financial industry. The company manages billions of dollars in assets, provides liquidity to make markets efficient, and has an excellent reputation of delivering value to its clients. Additionally, Ken Griffin is one of the biggest philanthropists in the United States. So far in 2023, Griffin has donated over $1.5B to Philanthropic causes, including a $300M donation to Harvard University. 
 
 Hedge funds are typically evaluated based on various performance and risk-related metrics by investor and industry professionals. Some of the key metrics that are commonly used to assess hedge funds include:
 
@@ -83,7 +83,7 @@ Hedge funds are typically evaluated based on various performance and risk-relate
 
 5. ***Portfolio Turnover:*** Portfolio turnover indicates how frequently a fund buys and sells assets. Lower turnover can reduce trading costs and taxes, which is favorable for investors. 
 
-[In 2022, Citadel's $16B in profit makes the company the top-earning company ever.](https://www.forbes.com/sites/hanktucker/2023/01/22/citadels-16-billion-gain-in-2022-makes-ken-griffins-firm-the-top-earning-hedge-fund-ever/?sh=71c2a09a3105) In the face of challenging market conditions in 2022, Citadel's flagship multi-strategy fund delivered an impressive 38.1%. The exceptional performance stood out as equity markets faced a significant downturn. According to estimates by LCH Investments, Citadel concluded 2022 with assets under management totaling $62.3B. Notably, the firm achieved the distinction of posting the most substantial single-year profit in the history of hedge funds. In a press release, CEO of Edmond de Rothschild Capital Holdings said "Citadels progress up the rankings in the past few years has been remarkable."
+[In 2022, Citadel's $16B in profit makes the company the top-earning hedge fund ever.](https://www.forbes.com/sites/hanktucker/2023/01/22/citadels-16-billion-gain-in-2022-makes-ken-griffins-firm-the-top-earning-hedge-fund-ever/?sh=71c2a09a3105) In the face of challenging market conditions in 2022, Citadel's flagship multi-strategy fund delivered an impressive 38.1%. The exceptional performance stood out as equity markets faced a significant downturn. According to estimates by LCH Investments, Citadel concluded 2022 with assets under management totaling $62.3B. Notably, the firm achieved the distinction of posting the most substantial single-year profit in the history of hedge funds. In a press release, CEO of Edmond de Rothschild Capital Holdings said "Citadels progress up the rankings in the past few years has been remarkable."
 
 [Bloomberg TV explains how top hedge funds are outperforming the rest of the finance industry](https://www.youtube.com/watch?v=xC1LqQbIXjk&t=1s) 
 
